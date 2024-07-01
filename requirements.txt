@@ -1,6 +1,6 @@
-numpy==1.21.6
+numpy
 matplotlib
 Pillow
 Scikit-learn 
-tensorflow==2.14.0
+tensorflow==2.12.0
 opencv-python
