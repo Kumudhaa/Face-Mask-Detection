@@ -4,3 +4,4 @@ Pillow
 opencv-python
 Scikit-learn 
 tensorflow
+libgl1
