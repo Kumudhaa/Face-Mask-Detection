@@ -2,5 +2,5 @@ numpy
 matplotlib
 Pillow
 Scikit-learn 
-tensorflow
+tensorflow==2.14.0
 opencv-python
