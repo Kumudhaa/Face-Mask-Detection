@@ -3,4 +3,4 @@ matplotlib
 Pillow
 Scikit-learn 
 tensorflow
-opencv-python-headless
+opencv-python
