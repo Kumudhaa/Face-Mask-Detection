@@ -1,7 +1,6 @@
 numpy
 matplotlib
 Pillow
-opencv-python
 Scikit-learn 
 tensorflow
-libgl1
+opencv-python-headless
